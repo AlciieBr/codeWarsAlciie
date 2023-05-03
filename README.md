@@ -1,2 +1,3 @@
 # codeWarsAlciie
-this is my codewars repository
+This is the repository of my codewars codes for future checks...
+feel free to submit a pull request if you want to
